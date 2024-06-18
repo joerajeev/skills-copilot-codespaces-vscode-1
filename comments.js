@@ -1,4 +1,4 @@
-// create a web server that listens on port 3000
+// create web server that listens on port 3000
 // The web server should respond to a GET request to /comments
 // with a JSON object that represents an array of comments
 // Each comment should have a name and a message property
